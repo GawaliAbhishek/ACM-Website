@@ -5,6 +5,28 @@
 * License: https://bootstrapmade.com/license/
 */
 
+
+#img-inst{
+  height: 250px;
+  width: 300px;
+}
+
+#Button-abhi{
+width: 200px;
+height: 50px;
+border: #209dd8;
+background-color: #48b7eb;
+border-radius: 50px;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+color: whitesmoke;
+font-size: 16px;
+    font-weight: 500;
+    font-family: "Jost", sans-serif;
+}
+
 #logoimg{
   height: 60px;
   width: 250px;
@@ -777,7 +799,7 @@ section {
 # Cta
 --------------------------------------------------------------*/
 .cta {
-  background: linear-gradient(rgba(40, 58, 90, 0.9), rgba(40, 58, 90, 0.9)), url("../img/cta-bg.jpg") fixed center center;
+  background: linear-gradient(rgba(40, 58, 90, 0.9), rgba(40, 58, 90, 0.9)), url("../img/sri-sant-gajanan-maharaj-college-of-engineering-ssgmce-buldhana.jpg") fixed center center;
   background-size: cover;
   padding: 120px 0;
 }
