@@ -5,6 +5,7 @@
 * License: https://bootstrapmade.com/license/
 */
 
+@import url(https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css);
 #logoimg{
   height: 60px;
   width: 250px;
@@ -738,31 +739,47 @@ section {
 /*--------------------------------------------------------------
 # Services
 --------------------------------------------------------------*/
+
 .services .icon-box {
   box-shadow: 0px 0 25px 0 rgba(0, 0, 0, 0.1);
   padding: 50px 30px;
   transition: all ease-in-out 0.4s;
   background: #fff;
+  
 }
 .services .icon-box .icon {
   margin-bottom: 10px;
+  
 }
 .services .icon-box .icon i {
+  
+  display: flex;
+  align-items: center;
+  justify-content: center;
   color: #47b2e4;
   font-size: 36px;
   transition: 0.3s;
 }
 .services .icon-box h4 {
+  color: #37517e;
+  display: flex;
+  align-items: center;
+  justify-content: center;
   font-weight: 500;
   margin-bottom: 15px;
   font-size: 24px;
 }
 .services .icon-box h4 a {
+
   color: #37517e;
   transition: ease-in-out 0.3s;
 }
 .services .icon-box p {
-  line-height: 24px;
+  line-height: 24px;display: flex;
+  align-items: center;
+  justify-content: center;
+  
+
   font-size: 14px;
   margin-bottom: 0;
 }
@@ -772,6 +789,19 @@ section {
 .services .icon-box:hover h4 a {
   color: #47b2e4;
 }
+a {
+  color: #26b7a0;
+  text-decoration: none;
+  background-color: transparent;
+  -webkit-text-decoration-skip: objects;
+  
+}
+center {
+  text-align: -webkit-center;
+}
+
+
+
 
 /*--------------------------------------------------------------
 # Cta
