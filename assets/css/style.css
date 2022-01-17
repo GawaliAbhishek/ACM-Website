@@ -6,6 +6,7 @@
 */
 
 
+@import url(https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css);
 #img-inst{
   height: 250px;
   width: 300px;
@@ -770,11 +771,18 @@ section {
   margin-bottom: 10px;
 }
 .services .icon-box .icon i {
+  display: flex;
+  align-items: center;
+  justify-content: center;
   color: #47b2e4;
   font-size: 36px;
   transition: 0.3s;
 }
 .services .icon-box h4 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #47b2e4;
   font-weight: 500;
   margin-bottom: 15px;
   font-size: 24px;
