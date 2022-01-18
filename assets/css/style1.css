@@ -11,9 +11,13 @@ body {
     margin-bottom: 50px;
 }
 .ourTeam-hedding h1{
-    font-size: 25px;
+    font-size: 27px;
     font-weight: bold;
-    color: #145889;
+     text-transform: uppercase; 
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+    position: relative;
+    color: #37517e;
 }
 .ourTeam-box{
     border-radius: 2px;
