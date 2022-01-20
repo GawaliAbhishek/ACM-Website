@@ -37,8 +37,22 @@ font-size: 16px;
 }
 
 #logoimg{
-  height: 60px;
-  width: 250px;
+  
+  height: 80px;
+  width: 130px;
+
+  
+}
+#clg{
+color: white;
+font-size: 10px;
+
+
+}
+#clg.h3{
+  color: rgb(207, 18, 18);
+  font-size: 5px;
+  
 }
 
 /*--------------------------------------------------------------
